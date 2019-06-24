@@ -4,7 +4,7 @@ This project integrates the **[Brightcove Video Cloud](http://docs.brightcove.co
 
 <http://www.coresecure.com/brightcove-aem-integration>
 #### Supports
- - AEM 6.2, 6.3
+ - AEM 6.2, 6.3, 6.4
 
 ## Features
 - Components for Authoring Videos and Playlists
